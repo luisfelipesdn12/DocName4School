@@ -39,3 +39,7 @@ Projeto de Vida - PDV;
 Tecnologia - TEC;
 
 Educação Física - EDF.
+
+
+Quantidades: simplesmente para ter controle e evitar duplicidades caso os prefixos fossem iguais.
+coisas como: 01, 02 etc

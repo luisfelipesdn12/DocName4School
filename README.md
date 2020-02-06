@@ -1,4 +1,4 @@
-# DocNameSchool
+# DocName4School
 Um gerador de nome para documentos escaneados, sobretudo para uso acadêmico.
 
 [![Run on Repl.it](https://repl.it/badge/github/luisfelipesdn12-email/DocNameSchool)](https://repl.it/github/luisfelipesdn12-email/DocNameSchool)

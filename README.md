@@ -7,7 +7,7 @@ Eu uso apps de escanear folhas com a câmera do celular para organizar e armazen
 Já tentei diversas formas de nomear os arquivos para organiza-los bem.
 Cheguei a conclusão de que é uma boa nomear como arquivos de câmera, nomeados automáticamente com o tipo de arquivo, data, etc.
 
-A maneira qu encontrei foi a seguinte:
+A maneira que encontrei foi a seguinte:
 
 TipoDeDocumento_Disciplina_Data_Quantidade
 
@@ -48,9 +48,9 @@ Educação Física - EDF.
 ------
 ## Quantidades: 
 Simplesmente para ter controle e evitar duplicidades caso os prefixos fossem iguais.
-coisas como: 01, 02 etc
+Coisas como: 01, 02 etc
 
 ------
 Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02/02/2002; os três arquivos serão:
 
-TRA_QUI_02022002_01, TRA_QUI_02022002_02 e TRA_QUI_02022002_03.
+TRA_QUI_02.02.2002_01, TRA_QUI_02.02.2002_02 e TRA_QUI_02.02.2002_03.

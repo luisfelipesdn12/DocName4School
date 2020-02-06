@@ -12,7 +12,7 @@ A maneira qu encontrei foi a seguinte:
 TipoDeDocumento_Disciplina_Data_Quantidade
 
 ------
-Tipos de documento:
+## Tipos de documento:
 
 Matéria - MAT: cópias ou anotações no caderno;
 
@@ -21,7 +21,7 @@ Avaliação - AVA: provas, testes, exames, atividades para nota, etc;
 Trabalho - TRA: pesquisas, redações, atividades em folha a parte para a nota que não se encaixam no item supracitado.
 
 ------
-Disciplinas:
+## Disciplinas:
 
 Português - POR;
 
@@ -46,7 +46,8 @@ Tecnologia - TEC;
 Educação Física - EDF.
 
 ------
-Quantidades: simplesmente para ter controle e evitar duplicidades caso os prefixos fossem iguais.
+## Quantidades: 
+simplesmente para ter controle e evitar duplicidades caso os prefixos fossem iguais.
 coisas como: 01, 02 etc
 
 ------

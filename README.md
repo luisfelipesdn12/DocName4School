@@ -1,6 +1,8 @@
 # DocNameSchool
 Um gerador de nome para documentos escaneados, sobretudo para uso acadêmico.
 
+[![Run on Repl.it](https://repl.it/badge/github/luisfelipesdn12-email/DocNameSchool)](https://repl.it/github/luisfelipesdn12-email/DocNameSchool)
+
 Eu uso apps de escanear folhas com a câmera do celular para organizar e armazenar minhas avaliações, matérias e trabalhos escolares.
 Já tentei diversas formas de nomear os arquivos para organiza-los bem.
 Cheguei a conclusão de que é uma boa nomear como arquivos de câmera, nomeados automáticamente com o tipo de arquivo, data, etc.

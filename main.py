@@ -1,5 +1,6 @@
-from datetime import date #biblioteca para receber a informação de datas
+from datetime import date, timedelta #bibliotecas para receber a informação de datas
 
+#coleta e retorna a opção de tipo de arquivo do usuário
 def tipoDeArquivo():
   tipos_de_arquivo_list = ['MAT', 'AVA', 'TRA']
   while True:
@@ -14,8 +15,10 @@ def tipoDeArquivo():
       return(tipos_de_arquivo_list[user_input-1])
       break
 
+#coleta e retorna a opção de disciplina do usuário:
 def disciplina():
   disciplinas = ['POR', 'MAT', 'FIS', 'QUI', 'BIO', 'GEO', 'HIS', 'ING', 'PDV', 'TEC', 'EDF']
+  #repete a pergunta até o input ser válido: 
   while True:
     print('''
 ----------------------
@@ -37,30 +40,50 @@ Qual é a disciplina?
       return(disciplinas[user_input-1])
       break
  
+#retorna a data escolhida pelo usuário entre hoje, onte e anteontem:
+def dataEscolhida(): 
+	def hoje(): #retorna a data atual (hoje)
+		data = date.today()
+		return(data.strftime('%d.%m.%Y'))
+	
+	def ontem(): #retorna a data atual menos um dia (ontem)
+		data = date.today() - timedelta(days=1)
+		return(data.strftime('%d.%m.%Y'))
+				
+	def anteontem(): #retorna a data atual menos dois dias (anteontem)
+		data = date.today() - timedelta(days=2)
+		return(data.strftime('%d.%m.%Y'))
 
-def dataAtual():
-  #pega o dia atual, se tiver apenas um número: coloca um '0' na frente
-  dia = str(date.today().day)
-  if len(dia) == 2:
-    dia = dia
-  else: dia = f'0{dia}'
+  #repete a pergunta até o input ser válido:
+	while True:
+		user_input = int(input(f'''
+----------------------
+De que dia é?
+[ 1 ] Hoje ({hoje()});
+[ 2 ] Ontem ({ontem()});
+[ 3 ] Anteontem ({anteontem()});
 
-  #pega o mês atual, se tiver apenas um número: coloca um '0' na frente
-  mes = str(date.today().month)
-  if len(mes) == 2:
-    mes = mes
-  else: mes = f'0{mes}'
+'''))
+		if user_input in range(1, 4):
+			break
 
-  data_atual = f'{dia}.{mes}.{date.today().year}'
-  return(data_atual)
+	if user_input == 1:
+		return(hoje())
+	if user_input == 2:
+		return(ontem())
+	if user_input == 3:
+		return(anteontem())
 
+#retorna o número de arquivos com as variáveis anteriores iguais; definido pelo usuário:
 def quantidade():
   print('\n---------------------- \nDigite um valor inteiro que represente a quantidade de arquivos com as mesmas característica supracitadas: \n')
   user_input = int(input())
   return(user_input)
 
+#defino o 'nome_sem_quantidade' antes, pois se eu fosse definir no laço for, a pergunta da quantidade viria antes das outras, uma vez que é usada como parâmetro do laço.
 nome_sem_quantidade = f'{tipoDeArquivo()}_{disciplina()}_{dataAtual()}'
 
+#laço de insere a quantidade no final e imprime na tela:
 for c in range(1, quantidade()+1):
   if c == 1: print('\n----------------------')
   if len(str(c)) >= 2:

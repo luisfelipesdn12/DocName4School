@@ -6,7 +6,7 @@ Um gerador de nome para documentos escaneados, sobretudo para uso acadêmico.
 Eu uso apps de escanear folhas com a câmera do celular para organizar e armazenar minhas avaliações, matérias e trabalhos escolares.
 Já tentei diversas formas de nomear os arquivos para organiza-los bem.
 
-![TecTudo - CamScanner](https://s2.glbimg.com/uEr5hudzWJne-2txXrYWhtuU8eU=/0x0:1920x1080/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/M/9/2J1QJPT96lga05PIInAA/tutorial-pdf-camscanner.jpg)
+[![TecTudo - CamScanner](https://s2.glbimg.com/uEr5hudzWJne-2txXrYWhtuU8eU=/0x0:1920x1080/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/M/9/2J1QJPT96lga05PIInAA/tutorial-pdf-camscanner.jpg)](https://www.techtudo.com.br/dicas-e-tutoriais/2018/09/como-salvar-documentos-em-pdf-com-o-app-camscanner.ghtml)
 
 Cheguei a conclusão de que é uma boa nomear como arquivos de câmera, nomeados automáticamente com o tipo de arquivo, data, etc.
 

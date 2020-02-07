@@ -81,7 +81,7 @@ def quantidade():
   return(user_input)
 
 #defino o 'nome_sem_quantidade' antes, pois se eu fosse definir no laço for, a pergunta da quantidade viria antes das outras, uma vez que é usada como parâmetro do laço.
-nome_sem_quantidade = f'{tipoDeArquivo()}_{disciplina()}_{dataAtual()}'
+nome_sem_quantidade = f'{tipoDeArquivo()}_{disciplina()}_{dataEscolhida()}'
 
 #laço de insere a quantidade no final e imprime na tela:
 for c in range(1, quantidade()+1):

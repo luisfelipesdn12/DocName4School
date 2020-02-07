@@ -78,4 +78,6 @@ Coisas como: 01, 02 etc
 ------
 Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02/02/2002; os três arquivos serão:
 
-TRA_QUI_02.02.2002_01, TRA_QUI_02.02.2002_02 e TRA_QUI_02.02.2002_03.
+* TRA_QUI_02.02.2002_01, 
+* TRA_QUI_02.02.2002_02 e 
+* TRA_QUI_02.02.2002_03.

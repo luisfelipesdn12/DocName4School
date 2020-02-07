@@ -14,36 +14,36 @@ TipoDeDocumento_Disciplina_Data_Quantidade
 ------
 ## Tipos de documento:
 
-Matéria - MAT: cópias ou anotações no caderno;
+* Matéria - MAT: cópias ou anotações no caderno;
 
-Avaliação - AVA: provas, testes, exames, atividades para nota, etc;
+* Avaliação - AVA: provas, testes, exames, atividades para nota, etc;
 
-Trabalho - TRA: pesquisas, redações, atividades em folha a parte para a nota que não se encaixam no item supracitado.
+* Trabalho - TRA: pesquisas, redações, atividades em folha a parte para a nota que não se encaixam no item supracitado.
 
 ------
 ## Disciplinas:
 
-Português - POR;
+* Português - POR;
 
-Matemática - MAT;
+* Matemática - MAT;
 
-Física - FIS;
+* Física - FIS;
 
-Química - QUI;
+* Química - QUI;
 
-Biologia - BIO;
+* Biologia - BIO;
 
-Geografia - GEO;
+* Geografia - GEO;
 
-História - HIS;
+* História - HIS;
 
-Inglês - ING;
+* Inglês - ING;
 
-Projeto de Vida - PDV;
+* Projeto de Vida - PDV;
 
-Tecnologia - TEC;
+* Tecnologia - TEC;
 
-Educação Física - EDF.
+* Educação Física - EDF.
 
 ------
 ## Quantidades: 

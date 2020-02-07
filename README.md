@@ -20,6 +20,13 @@ TipoDeDocumento_Disciplina_Data_Quantidade
 
 * Trabalho - TRA: pesquisas, redações, atividades em folha a parte para a nota que não se encaixam no item supracitado.
 
+
+|Tipo de documento | Sigla|
+|---|---|
+|Matéria|MAT|
+|Avaliação|AVA|
+|Trabalho|TRA|
+
 ------
 ## Disciplinas:
 
@@ -44,6 +51,21 @@ TipoDeDocumento_Disciplina_Data_Quantidade
 * Tecnologia - TEC;
 
 * Educação Física - EDF.
+
+
+|Disciplina |Sigla|
+|--|---|
+|Portugues |POR|
+|Matemática|MAT|
+|Física | FIS|
+| Química| QUI|
+|Biologia | BIO|
+|Geografia| GEO|
+|História | HIS|
+|Inglês |ING|
+|Projeto de Vida |PDV|
+| Tecnologia | TEC|
+|Educação Física | EDF|
 
 ------
 ## Quantidades: 

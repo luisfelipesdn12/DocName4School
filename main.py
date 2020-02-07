@@ -10,10 +10,13 @@ def tipoDeArquivo():
   [ 2 ] Avaliação - provas, testes, exames, atividades para nota, etc;
   [ 3 ] Trabalho - pesquisas, redações, atividades em folha a parte para a nota que não se encaixam no item supracitado.
     ''')
-    user_input = int(input())
-    if user_input in [1,2,3]:
-      return(tipos_de_arquivo_list[user_input-1])
-      break
+    #repete a pergunta caso algum erro de exceção ocorra
+    try:
+      user_input = int(input())
+      if user_input in [1,2,3]:
+        return(tipos_de_arquivo_list[user_input-1])
+        break
+    except: pass
 
 #coleta e retorna a opção de disciplina do usuário:
 def disciplina():
@@ -35,10 +38,13 @@ Qual é a disciplina?
 [ 10 ] Tecnologia - TEC;
 [ 11 ] Educação Física - EDF.
 ''')
-    user_input = int(input())
-    if user_input in range(1, 11):
-      return(disciplinas[user_input-1])
-      break
+    #repete a pergunta caso algum erro de exceção ocorra
+    try:
+      user_input = int(input())
+      if user_input in range(1, 11):
+        return(disciplinas[user_input-1])
+        break
+    except: pass
  
 #retorna a data escolhida pelo usuário entre hoje, onte e anteontem:
 def dataEscolhida(): 

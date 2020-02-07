@@ -1,10 +1,13 @@
 # DocName4School
 Um gerador de nome para documentos escaneados, sobretudo para uso acadêmico.
 
-[![Run on Repl.it](https://repl.it/badge/github/luisfelipesdn12-email/DocNameSchool)](https://repl.it/github/luisfelipesdn12-email/DocNameSchool)
+[![Run on repl.it](https://repl.it/badge/github/luisfelipesdn12-email/DocNameSchool)](https://DocNameSchool.luisfelipe27.repl.run)
 
 Eu uso apps de escanear folhas com a câmera do celular para organizar e armazenar minhas avaliações, matérias e trabalhos escolares.
 Já tentei diversas formas de nomear os arquivos para organiza-los bem.
+
+![TecTudo - CamScanner](https://s2.glbimg.com/uEr5hudzWJne-2txXrYWhtuU8eU=/0x0:1920x1080/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/M/9/2J1QJPT96lga05PIInAA/tutorial-pdf-camscanner.jpg)
+
 Cheguei a conclusão de que é uma boa nomear como arquivos de câmera, nomeados automáticamente com o tipo de arquivo, data, etc.
 
 A maneira que encontrei foi a seguinte:

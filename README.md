@@ -93,7 +93,7 @@ Há duas maneiras de usar o programa:
 1. uma mais simples porém menos usual, que utiliza `input()`s e `print()`s;
 2. e outra em que se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
 
-![main_inline_demo_GIF](https://i.imgur.com/BybQzsN.gif)
+![main_inline_demo_GIF](https://im.ezgif.com/tmp/ezgif-1-eeb103383b45.gif)
 > GIF demonstrativo da segunda maneira.
 
 Nas duas o programa perguntará o tipo de arquivo, a disciplina e a data; porém apenas o primeiro jeito possibilita a escolha de quantidade, uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente.

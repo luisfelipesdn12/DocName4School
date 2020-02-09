@@ -90,7 +90,7 @@ Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02
 # Tipos de uso:
 
 Há duas maneiras de usar o programa: 
-1. uma mais simples porém menos usual, que utiliza 'input()'s e sprint()'s;
+1. uma mais simples porém menos usual, que utiliza 'input()'s e 'print()'s;
 2. e outra em que se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
 
 ![demo_gif_2](https://i.imgur.com/vNfEzY1.gif)

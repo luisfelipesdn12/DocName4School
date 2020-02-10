@@ -72,6 +72,12 @@ TipoDeDocumento_Disciplina_Data_Quantidade
 | Tecnologia | TEC|
 |Educação Física | EDF|
 
+---
+## Datas:
+O usuário pode escolher entre as datas de
+hoje, ontem e anteontem. A data será mostrada
+antes da informação de quantidade como: `xx.xx.xxxx`
+
 ------
 ## Quantidades: 
 Simplesmente para ter controle e evitar duplicidades caso os prefixos fossem iguais.
@@ -84,7 +90,6 @@ Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02
 * TRA_QUI_02.02.2002_02 e 
 * TRA_QUI_02.02.2002_03.
 
----
 ---
 
 # Tipos de uso:

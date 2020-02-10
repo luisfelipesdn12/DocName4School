@@ -92,10 +92,10 @@ Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02
 Há duas maneiras de usar o programa: 
 
 ## Simples:
-Uma mais simples porém menos usual, que utiliza `input()`s e `print()`s;
+Mais simples porém menos usual, que utiliza `input()`s e `print()`s;
 
 ## Inline:
-E outra em que se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
+Se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
 
 ![](https://i.ibb.co/Pr5q8Vb/main-inline-demo.gif)
 > GIF demonstrativo da segunda maneira.

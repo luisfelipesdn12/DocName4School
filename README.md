@@ -135,4 +135,9 @@ python script.py arquivo_para_renomear.extesão
 Pronto!
 
 ----
-Nas duas o programa perguntará o tipo de arquivo, a disciplina e a data; porém apenas o primeiro jeito possibilita a escolha de quantidade, uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente.
+Nas duas o programa perguntará o [tipo de documento](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#tipos-de-documento), 
+a [disciplina](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#disciplinas) e 
+a [data](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#datas); 
+porém apenas o primeiro jeito possibilita a escolha 
+de [quantidade](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#quantidades), 
+uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente.

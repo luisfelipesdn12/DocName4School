@@ -90,10 +90,31 @@ Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02
 # Tipos de uso:
 
 Há duas maneiras de usar o programa: 
-1. uma mais simples porém menos usual, que utiliza `input()`s e `print()`s;
-2. e outra em que se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
 
-![main_inline_demo_GIF](https://im.ezgif.com/tmp/ezgif-1-eeb103383b45.gif)
+## Simples:
+Uma mais simples porém menos usual, que utiliza `input()`s e `print()`s;
+
+## Inline:
+E outra em que se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
+
+![](https://i.ibb.co/Pr5q8Vb/main-inline-demo.gif)
 > GIF demonstrativo da segunda maneira.
 
+
+### Passo a passo:
+
+![](https://im5.ezgif.com/tmp/ezgif-5-68aa62d843e0-gif-im/frame_0_delay-1.5s.gif)
+1. Colocar o `script.py`, e o `arquivo_para_renomear.extensão` no mesmo diretório.
+pode ser na Área de Trabalho, ou em uma pasta separada. 
+Abrir o CMD e colocá-lo no diretório escolhido com o comando:
+```
+cd {insira o diretório aqui}
+```
+
+![frame 2](https://i.ibb.co/vBH6tYJ/frame-1-delay-2-5s.png)
+2. Inserir o comando
+```
+python script.py arquivo_para_renomear.extesão
+```
+----
 Nas duas o programa perguntará o tipo de arquivo, a disciplina e a data; porém apenas o primeiro jeito possibilita a escolha de quantidade, uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente.

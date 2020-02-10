@@ -103,7 +103,7 @@ E outra em que se roda o programa com argumentos inline, no modelo: `python scri
 
 ### Passo a passo:
 
-![](https://im5.ezgif.com/tmp/ezgif-5-68aa62d843e0-gif-im/frame_0_delay-1.5s.gif)
+![frame 1](https://im5.ezgif.com/tmp/ezgif-5-68aa62d843e0-gif-im/frame_0_delay-1.5s.gif)
 1. Colocar o `script.py`, e o `arquivo_para_renomear.extensão` no mesmo diretório.
 pode ser na Área de Trabalho, ou em uma pasta separada. 
 Abrir o CMD e colocá-lo no diretório escolhido com o comando:
@@ -112,9 +112,22 @@ cd {insira o diretório aqui}
 ```
 
 ![frame 2](https://i.ibb.co/vBH6tYJ/frame-1-delay-2-5s.png)
-2. Inserir o comando
+2. Inserir o comando:
 ```
 python script.py arquivo_para_renomear.extesão
 ```
+
+![frame 3](https://cdn.discordapp.com/attachments/676419554154643489/676420422853459979/frame_2_delay-1.5s.png)
+3. Definir o tipo de documento.
+
+![frame 4](https://cdn.discordapp.com/attachments/676419554154643489/676420422547406889/frame_3_delay-1.5s.png)
+4. Definir a disciplina.
+
+![frame 5](https://cdn.discordapp.com/attachments/676419554154643489/676420423696515072/frame_4_delay-1.5s.png)
+5. Definir a data.
+
+![frame 6](https://cdn.discordapp.com/attachments/676419554154643489/676420423113637889/frame_5_delay-4s.png)
+Pronto!
+
 ----
 Nas duas o programa perguntará o tipo de arquivo, a disciplina e a data; porém apenas o primeiro jeito possibilita a escolha de quantidade, uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente.

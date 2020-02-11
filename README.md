@@ -108,7 +108,7 @@ Se roda o programa com argumentos inline, no modelo: `python script.py arquivo_p
 
 ### Passo a passo:
 
-![frame 1](https://im5.ezgif.com/tmp/ezgif-5-68aa62d843e0-gif-im/frame_0_delay-1.5s.gif)
+![frame 1](https://cdn.discordapp.com/attachments/676419554154643489/676420423918944256/frame_0_delay-1.5s.png)
 1. Colocar o `script.py`, e o `arquivo_para_renomear.extensão` no mesmo diretório.
 pode ser na Área de Trabalho, ou em uma pasta separada. 
 Abrir o CMD e colocá-lo no diretório escolhido com o comando:

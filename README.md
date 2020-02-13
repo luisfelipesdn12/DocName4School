@@ -81,7 +81,7 @@ antes da informação de quantidade como: `xx.xx.xxxx`
 ------
 ## Quantidades: 
 Simplesmente para ter controle e evitar duplicidades caso os prefixos fossem iguais.
-Coisas como: 01, 02 etc
+Coisas como: `_01`, `_02` etc
 
 ------
 Por exemplo, se eu for nomear um trabalho, de 3 folhas, de química, e no dia 02/02/2002; os três arquivos serão:

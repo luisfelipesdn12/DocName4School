@@ -99,6 +99,26 @@ Há duas maneiras de usar o programa:
 ## Simples:
 Mais simples porém menos usual, que utiliza `input()`s e `print()`s;
 
+![gif_demo_1](https://i.imgur.com/gcqVxxE.gif)
+> GIF demonstrativo da primeira maneira.
+
+### Passo a passo:
+
+![frame 1](https://i.imgur.com/dVyn7Ob.png)
+1. Definir o tipo de documento.
+
+![frame 2](https://i.imgur.com/eHa7XbS.png)
+2. Definir a disciplina.
+
+![frame 3](https://i.imgur.com/hx7FF6Z.png)
+3. Definir a data.
+
+![frame 4](https://i.imgur.com/Sdt15z7.png)
+4. Definir a quantidade.
+
+![frame 5](https://i.imgur.com/RbMXSvD.png)
+Pronto!
+
 ## Inline:
 Se roda o programa com argumentos inline, no modelo: `python script.py arquivo_para_renomear.extensão`
 

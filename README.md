@@ -159,10 +159,38 @@ python script.py arquivo_para_renomear.extesão
 ![frame 6](https://cdn.discordapp.com/attachments/676419554154643489/676420423113637889/frame_5_delay-4s.png)
 Pronto!
 
+## GUI:
+Com uma `Graphic User Interface` simples feita com a biblioteca `easygui`.
+
+![gif_demo_gui](https://i.imgur.com/PIYsWLk.gif)
+> GIF demonstrativo da terceira maneira.
+
+### Passo a passo:
+![frame 1](https://i.imgur.com/CIYR265.png)
+1. Tela inicial, clicar em `Escolher arquivos`.
+
+![Frame 2/3](https://i.imgur.com/gabGz01.png)
+2. Ir até o diretório e selecionar os aquivos desejados.
+
+![Frame 4](https://i.imgur.com/bEnH41q.png)
+3. Definir o tipo de documento.
+
+![Frame 5](https://i.imgur.com/9YPXMhH.png)
+4. Definir a disciplina.
+
+![Frame 6](https://i.imgur.com/CeTzAsu.png)
+5. Definir a data.
+
+![Frame 7](https://i.imgur.com/ygYLMCU.png)
+6. Tela de conclusão, escolher entre abrir o diretório dos arquivos ou sair.
+
+![Frame 8](https://i.imgur.com/bR6y36P.png)
+7. Diretório com os aquivos renomeados.
+
 ----
-Nas duas o programa perguntará o [tipo de documento](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#tipos-de-documento), 
+Nas três o programa perguntará o [tipo de documento](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#tipos-de-documento), 
 a [disciplina](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#disciplinas) e 
 a [data](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#datas); 
 porém apenas o primeiro jeito possibilita a escolha 
 de [quantidade](https://github.com/luisfelipesdn12-email/DocName4School/blob/master/README.md#quantidades), 
-uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente.
+uma vez que no segundo o sufixo é sempre `_01`, nomeado automáticamente; e no terceiro a quantidade é definida automáticamente com o número de arquivos selecionados.
